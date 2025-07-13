@@ -6,7 +6,7 @@ This project simulates a real-world analytics case study for a digital streaming
 We focus on understanding user behavior, uncovering growth levers, and validating product strategies with data.
 
 **Key Goals:**
-- Understand how early behavior (genre diversity, session patterns) affects retention.
+- Understand how early user behavior (genre diversity, session patterns) affects retention.
 - Simulate A/B tests to validate product ideas (e.g., push notifications).
 - Translate raw metrics into business outcomes like revenue impact or session uplift.
 - Communicate findings in actionable, stakeholder-friendly formats.
