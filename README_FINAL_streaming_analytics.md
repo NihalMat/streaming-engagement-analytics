@@ -2,7 +2,7 @@
 # 🎬 Streaming Service Engagement Analytics & Growth Experiments
 
 ## 🔍 Project Overview
-This project simulates a real-world analytics case study for a digital streaming platform (inspired by Apple Services).  
+This project simulates a real-world analytics case study for a digital streaming platform (Netflix, Prime, Apple Tv+.  
 We focus on understanding user behavior, uncovering growth levers, and validating product strategies with data.
 
 **Key Goals:**
