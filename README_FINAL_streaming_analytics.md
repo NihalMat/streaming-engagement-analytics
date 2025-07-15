@@ -1,7 +1,7 @@
 
 # 🎬 Streaming Service Engagement Analytics & Growth Experiments
 
-## 🔍 Project Overview (📘 [Click here to view the full Colab notebook](https://github.com/NihalMat/streaming-engagement-analytics/blob/main/Streaming_Analytics_Colab.ipynb))
+## 🔍 Project Overview (📘 [Click here to view the full Python notebook](https://github.com/NihalMat/streaming-engagement-analytics/blob/main/Streaming_Analytics_Colab.ipynb))
 This project simulates a real-world analytics case study for a digital streaming platform (Netflix, Prime, Apple Tv+)  
 We focus on understanding user behavior, uncovering growth levers, and validating product strategies with data.
 
